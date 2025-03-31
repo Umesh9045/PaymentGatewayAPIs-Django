@@ -37,11 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
     'payment_methods_app',
     'vendor_app',
     'payment_status_app',
     'transaction_app',
-    
+    'payment_interface_app',
 
 ]
 
