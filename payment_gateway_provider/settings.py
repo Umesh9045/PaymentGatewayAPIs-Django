@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'payment_methods_app',
     'vendor_app',
     'payment_status_app',
+    'transaction_app',
+    
 
 ]
 
